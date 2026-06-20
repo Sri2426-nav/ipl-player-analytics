@@ -2,9 +2,9 @@
 
 An end-to-end data science project that turns raw IPL ball-by-ball data into player performance insights, a predictive valuation model, and an interactive live dashboard.
 
-**🔗 Live App:** [[your-app-link.streamlit.app(https://your-app-link.streamlit.app](https://ipl-player-analytics-bhhaavo2ibj6kwramplxmw.streamlit.app/)) <!-- replace with your real link -->
+**🔗 Live App:** [your-app-link.streamlit.app](https://github.com/sri2426-nav/ipl-player-analytics/blob/main/app.py) <!-- replace with your real link -->
 
-![Streamlit App](images/streamlit_app.png)
+![Streamlit App](streamlit_app.png)
 
 ---
 
@@ -44,10 +44,10 @@ This project analyzes 136,000+ real ball-by-ball records from IPL matches to:
 ### Power BI Dashboard
 
 **Top 10 Players by Performance Score**
-![Top 10 Players](images/powerbi_top10_players.png)
+![Top 10 Players](powerbi_top10_players.png)
 
 **Performance Score vs. Predicted Auction Value**
-![Performance vs Value Scatter](images/powerbi_scatter_plot.png)
+![Performance vs Value Scatter](powerbi_scatter_plot.png)
 
 ---
 
