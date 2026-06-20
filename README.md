@@ -2,7 +2,7 @@
 
 An end-to-end data science project that turns raw IPL ball-by-ball data into player performance insights, a predictive valuation model, and an interactive live dashboard.
 
-**🔗 Live App:** [your-app-link.streamlit.app](https://github.com/sri2426-nav/ipl-player-analytics/blob/main/app.py) <!-- replace with your real link -->
+**🔗 Live App:** [your-app-link.streamlit.app]([https://github.com/sri2426-nav/ipl-player-analytics/blob/main/app.py](https://ipl-player-analytics-bhhaavo2ibj6kwramplxmw.streamlit.app/)) <!-- replace with your real link -->
 
 ![Streamlit App](streamlit_app.png)
 
