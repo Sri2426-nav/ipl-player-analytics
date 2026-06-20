@@ -52,3 +52,37 @@ This project analyzes 136,000+ real ball-by-ball records from IPL matches to:
 ---
 
 ## 📁 Repository Structure
+
+
+---
+
+## 🚀 Running Locally
+
+```bash
+git clone https://github.com/Sri2426-nav/ipl-player-analytics.git
+cd ipl-player-analytics
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 📈 Key Findings
+
+- Top performers by composite score: SK Raina, V Kohli, RG Sharma, CH Gayle, SR Watson
+- Model explains 94.5% of variance in the performance-weighted valuation score using 12 engineered features
+- Players such as Azhar Mahmood and Andrew Symonds emerged as high performance-to-value outliers — strong on-field contribution relative to their modeled valuation
+
+---
+
+## ⚠️ Methodology Note
+
+Real IPL auction prices are not contained in ball-by-ball match data and require a separate proprietary dataset. This project constructs a transparent, domain-weighted **performance valuation score** (based on runs, strike rate, wickets, and economy rate) as a proxy target for the regression model. This is a standard technique when a direct label is unavailable, and is disclosed here for full transparency.
+
+---
+
+## 👤 Author
+
+**S Sri Lakshmi Navya**
+B.Tech CSE, G Pullaiah College of Engineering and Technology
+[LinkedIn](https://linkedin.com/in/sri-lakshmi-navya) · [GitHub](https://github.com/Sri2426-nav)
